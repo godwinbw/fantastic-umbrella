@@ -47,16 +47,8 @@ Technologies used are Express.js, MySQL, and Sequelize
 
 ### **Challenge 13 - screenshots**
 
-<!---
-<img src="./screenshot_1.png" style="width: 50%; height=auto;">
-
-<img src="./screenshot_2.png" style="width: 50%; height=auto;">
-
-<img src="./screenshot_3.png" style="width: 50%; height=auto;">
--->
+<img src="./screenshot.png" style="width: 50%; height=auto;">
 
 ### Challenge 13 - link to walkthrough video
 
-<!---
-<https://streamable.com/0lnrdx>
--->
+<https://streamable.com/jklj1y>
